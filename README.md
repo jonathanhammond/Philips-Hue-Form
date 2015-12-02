@@ -1,5 +1,5 @@
 # Philips-Hue-Form
-Example of Philips Hue with Google's Form 
+Example of receiving Philips Hue Light information with Google's Form 
 
 ===========
 
