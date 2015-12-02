@@ -18,8 +18,9 @@ http://alturl.com/pofpn
 - Hue Color 
 - Brightness 
 - Saturation
-- Enabled
+- Light Active
 - Light Label
+- Scene Name
 
 
 ![iPhone 6 Screenshot](http://www.justaddmusicmedia.com/work/philipshue/files/stacks_image_11445.jpg "iPhone 6 Screenshot")
