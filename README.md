@@ -6,7 +6,7 @@ Example of receiving Philips Hue Light information with Google's Form
 More example found at http://www.justaddmusicmedia.com/work/form/
 
 Quick UI example of how to control Philips Hue Lighting system http://meethue.com/
-Build using Relativewave/Googles Form visual developerment tool http://www.relativewave.com
+Built with Relativewave/Googles wonderful 'Form' a visual development tool. For more infor on Form visit http://www.relativewave.com & https://www.facebook.com/groups/formcommunity
 
 Email me if you use this composition would be great to check out your work. Have fun learning Form
 
