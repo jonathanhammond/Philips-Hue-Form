@@ -28,6 +28,8 @@ http://alturl.com/pofpn
 ## How to Use
 - Download Form from http://www.relativewave.com
 - Open the **.form file
+- Visit http://www.developers.meethue.com/documentation/getting-started
+- Look for the JSON stuff, thats where the fun stuff happens
 - Have fun!
 
 ## Dependencies
