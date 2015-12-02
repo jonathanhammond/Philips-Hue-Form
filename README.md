@@ -35,5 +35,5 @@ Requires Some Hue Lights
 ## Known Issues
 
 ## Future Todo
-Make a Philips Hue PLugin for Form using the Offical SDK
+Make a Philips Hue Plugin for Form using the Offical SDK
 
