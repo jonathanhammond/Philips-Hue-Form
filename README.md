@@ -11,7 +11,8 @@ Build using Relativewave/Googles Form visual developerment tool http://www.relat
 Email me if you use this composition would be great to check out your work. Have fun learning Form
 
 Video example
-https://www.facebook.com/jonathanjameshammond/videos/o.1487811524809473/10153601097181348/?type=2&theater&notif_t=video_processed
+
+http://alturl.com/pofpn
 
 ## Features
 - Hue Color 
@@ -19,7 +20,6 @@ https://www.facebook.com/jonathanjameshammond/videos/o.1487811524809473/10153601
 - Saturation
 - Enabled
 - Light Label
-
 
 
 ![iPhone 6 Screenshot](http://www.justaddmusicmedia.com/work/philipshue/files/stacks_image_11445.jpg "iPhone 6 Screenshot")
